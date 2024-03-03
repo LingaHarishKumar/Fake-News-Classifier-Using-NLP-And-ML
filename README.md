@@ -1,4 +1,4 @@
-# Fake-News-Detection-Using-NLP-And-ML
+# Fake-News-Classifier-Using-NLP-And-ML
 
 Libraries used : numpy , pandas , re , nltk , sklearn
 
@@ -12,4 +12,4 @@ then did some preprocessing ( regular expression , removing stop words & lemmati
 
 then used GridSearchCV to decide best parameter for each models
 
-at last build a model to detect whether the given news is real / fake.
+at last build a model to classify whether the given news is real / fake.
